@@ -1,4 +1,1 @@
-alert("hello");
-alert("hello");
-alert("hello");
-alert("hello");
+alert("HELLO WORLD");
